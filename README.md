@@ -5,4 +5,3 @@ This workspace is organized in:
 |   ROS setup  | ROS Noetic installation process and repository setup|
 |   ROS Tutorial  | First ROS introduction and getting starter|
 |   ROS Turtlesim  | ROS programming within Turtlesim package|
-|   Hola  | Julia|
